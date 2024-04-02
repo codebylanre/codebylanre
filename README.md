@@ -18,9 +18,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-codebylanres-projects.vercel.app/api/top-langs/?username=Codebylanre&layout=compact" alt="codebylanre" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-codebylanres-projects.vercel.app/api?username=codebylanre&show_icons=true&locale=en" alt="codebylanre" /></p>
+| <a href="https://github.com/codebylanre/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codebylanre&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Codebylanre's github stats" /></a> | <a href="https://github.com/codebylanre/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebylanre&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
