@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **codebylanre@gmail.com**
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebylanre&show_icons=true&locale=en" alt="codebylanre" /></p>
 
 <!--
 **codebylanre/codebylanre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
