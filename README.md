@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lanre</h1>
 
-<img src="https://github.com/codebylanre/codebylanre/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img align= left src="https://github.com/codebylanre/codebylanre/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
 - 💻 I'm a Student @ <a href="https://www.wlu.ca/"><strong>Wilfrid Laurier Univeristy</strong></a></li>
