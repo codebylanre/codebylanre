@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lanre</h1>
-  
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Lanre 👋 I'm an 🚀aspiring software  developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>  
 
 - 💻 I'm a Student @ <a href="https://www.wlu.ca/"><strong>Wilfrid Laurier Univeristy</strong></a></li>
 
