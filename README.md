@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lanre</h1>
   
-<p>
 
-- 💻 I'm a Student of @ <a href="https://www.wlu.ca/"><strong>Wilfrid Laurier Univeristy</strong></a></li>
+- 💻 I'm a Student @ <a href="https://www.wlu.ca/"><strong>Wilfrid Laurier Univeristy</strong></a></li>
 
 - 👨‍💻 Follow my Tiktok @ <a href="https://www.tiktok.com/@codebylanre/"><strong>Codebylanre</strong></a></li>
 
@@ -14,7 +13,6 @@
 
 - 📫 How to reach me **codebylanre@gmail.com**
 
-</p>
 
 <!--
 **codebylanre/codebylanre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
