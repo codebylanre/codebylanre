@@ -19,7 +19,6 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats-codebylanres-projects.vercel.app/api/top-langs/?username=Codebylanre&layout=compact" alt="codebylanre" /></p>
 
-https://github-readme-stats-git-main-codebylanres-projects.vercel.app/
 
 
 
