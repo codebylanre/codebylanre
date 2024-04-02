@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lanre</h1>
 
-
-
--->
-
+<img src="https://github.com/codebylanre/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 - 💻 I'm a Student @ <a href="https://www.wlu.ca/"><strong>Wilfrid Laurier Univeristy</strong></a></li>
 
 - 👨‍💻 Follow my Tiktok @ <a href="https://www.tiktok.com/@codebylanre/"><strong>Codebylanre</strong></a></li>
