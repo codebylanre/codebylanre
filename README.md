@@ -16,9 +16,9 @@
 
 
 
+https://github-readme-stats-codebylanres-projects.vercel.app
 
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats-codebylanres-projects.vercel.app/api/top-langs/?username=Codebylanre&layout=compact" alt="codebylanre" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-opal-eight-67.vercel.app//api/top-langs/?username=Codebylanre&layout=compact" alt="codebylanre" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-codebylanres-projects.vercel.app/api?username=codebylanre&show_icons=true&locale=en" alt="codebylanre" /></p>
 
