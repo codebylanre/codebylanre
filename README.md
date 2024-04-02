@@ -17,7 +17,7 @@
 
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ebon-80.vercel.app/api/top-langs/?username=Codebylanre&layout=compact" alt="codebylanre" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-codebylanres-projects.vercel.app/api/top-langs/?username=Codebylanre&layout=compact" alt="codebylanre" /></p>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
